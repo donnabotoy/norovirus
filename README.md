@@ -1,9 +1,9 @@
-# <span style="color:blue">[Your Class Name]</span> - Exploring <span style="color:blue">[Virus Name]</span>
+# <font color="blue">[Your Class Name]</font> - Exploring <font color="blue">[Virus Name]</font>
 
-Welcome to the GitHub Pages website for <span style="color:blue">[Your Class Name]</span> where we delve into the fascinating world of <span style="color:blue">[Virus Name]</span>!
+Welcome to the GitHub Pages website for <font color="blue">[Your Class Name]</font> where we delve into the fascinating world of <font color="blue">[Virus Name]</font>!
 
 ## About
-This website serves as a platform for sharing information, resources, and insights about <span style="color:blue">[Virus Name]</span>. Whether you're a student, researcher, or simply curious about viruses, you'll find valuable content here.
+This website serves as a platform for sharing information, resources, and insights about <font color="blue">[Virus Name]</font>. Whether you're a student, researcher, or simply curious about viruses, you'll find valuable content here.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -17,13 +17,13 @@ This website serves as a platform for sharing information, resources, and insigh
 [Provide a brief introduction to your class and the focus on studying the particular virus. Explain why it's important and interesting.]
 
 ## Features
-- <span style="color:green">**Comprehensive Information:**</span> Explore detailed information about <span style="color:blue">[Virus Name]</span>, including its structure, replication cycle, transmission, and impact.
-- <span style="color:green">**Interactive Visuals:**</span> Engage with interactive diagrams and visuals to better understand the complexities of the virus.
-- <span style="color:green">**Latest Research:**</span> Stay updated with the latest research findings and developments related to <span style="color:blue">[Virus Name]</span>.
-- <span style="color:green">**Educational Resources:**</span> Access a variety of educational resources, including articles, videos, and presentations.
+- <font color="green">**Comprehensive Information:**</font> Explore detailed information about <font color="blue">[Virus Name]</font>, including its structure, replication cycle, transmission, and impact.
+- <font color="green">**Interactive Visuals:**</font> Engage with interactive diagrams and visuals to better understand the complexities of the virus.
+- <font color="green">**Latest Research:**</font> Stay updated with the latest research findings and developments related to <font color="blue">[Virus Name]</font>.
+- <font color="green">**Educational Resources:**</font> Access a variety of educational resources, including articles, videos, and presentations.
 
 ## Getting Started
-To access the website, simply visit [link to your GitHub Pages site]. You can navigate through different sections using the menu provided. Feel free to explore and learn more about <span style="color:blue">[Virus Name]</span>.
+To access the website, simply visit [link to your GitHub Pages site]. You can navigate through different sections using the menu provided. Feel free to explore and learn more about <font color="blue">[Virus Name]</font>.
 
 ## Contributing
 We welcome contributions from students, educators, and researchers passionate about virology. If you'd like to contribute to this project, please follow these steps:
@@ -39,7 +39,7 @@ We welcome contributions from students, educators, and researchers passionate ab
 - [Link to educational videos]
 
 ## License
-This project is licensed under the <span style="color:red">[Creative Commons License](https://creativecommons.org/licenses/by/4.0/)</span>. You are free to share and adapt the content for non-commercial purposes, with appropriate credit given.
+This project is licensed under the <font color="red">[Creative Commons License](https://creativecommons.org/licenses/by/4.0/)</font>. You are free to share and adapt the content for non-commercial purposes, with appropriate credit given.
 
 ---
 
