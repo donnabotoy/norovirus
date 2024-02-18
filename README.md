@@ -1,9 +1,9 @@
-# [Your Class Name] - Exploring [Virus Name]
+# <span style="color:blue">[Your Class Name]</span> - Exploring <span style="color:blue">[Virus Name]</span>
 
-Welcome to the GitHub Pages website for [Your Class Name] where we delve into the fascinating world of [Virus Name]!
+Welcome to the GitHub Pages website for <span style="color:blue">[Your Class Name]</span> where we delve into the fascinating world of <span style="color:blue">[Virus Name]</span>!
 
 ## About
-This website serves as a platform for sharing information, resources, and insights about [Virus Name]. Whether you're a student, researcher, or simply curious about viruses, you'll find valuable content here.
+This website serves as a platform for sharing information, resources, and insights about <span style="color:blue">[Virus Name]</span>. Whether you're a student, researcher, or simply curious about viruses, you'll find valuable content here.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -17,13 +17,13 @@ This website serves as a platform for sharing information, resources, and insigh
 [Provide a brief introduction to your class and the focus on studying the particular virus. Explain why it's important and interesting.]
 
 ## Features
-- **Comprehensive Information:** Explore detailed information about [Virus Name], including its structure, replication cycle, transmission, and impact.
-- **Interactive Visuals:** Engage with interactive diagrams and visuals to better understand the complexities of the virus.
-- **Latest Research:** Stay updated with the latest research findings and developments related to [Virus Name].
-- **Educational Resources:** Access a variety of educational resources, including articles, videos, and presentations.
+- <span style="color:green">**Comprehensive Information:**</span> Explore detailed information about <span style="color:blue">[Virus Name]</span>, including its structure, replication cycle, transmission, and impact.
+- <span style="color:green">**Interactive Visuals:**</span> Engage with interactive diagrams and visuals to better understand the complexities of the virus.
+- <span style="color:green">**Latest Research:**</span> Stay updated with the latest research findings and developments related to <span style="color:blue">[Virus Name]</span>.
+- <span style="color:green">**Educational Resources:**</span> Access a variety of educational resources, including articles, videos, and presentations.
 
 ## Getting Started
-To access the website, simply visit [link to your GitHub Pages site]. You can navigate through different sections using the menu provided. Feel free to explore and learn more about [Virus Name].
+To access the website, simply visit [link to your GitHub Pages site]. You can navigate through different sections using the menu provided. Feel free to explore and learn more about <span style="color:blue">[Virus Name]</span>.
 
 ## Contributing
 We welcome contributions from students, educators, and researchers passionate about virology. If you'd like to contribute to this project, please follow these steps:
@@ -39,7 +39,7 @@ We welcome contributions from students, educators, and researchers passionate ab
 - [Link to educational videos]
 
 ## License
-This project is licensed under the [Creative Commons License](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the content for non-commercial purposes, with appropriate credit given.
+This project is licensed under the <span style="color:red">[Creative Commons License](https://creativecommons.org/licenses/by/4.0/)</span>. You are free to share and adapt the content for non-commercial purposes, with appropriate credit given.
 
 ---
 
