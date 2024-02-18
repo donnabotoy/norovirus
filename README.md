@@ -13,6 +13,9 @@ This website serves as a platform for sharing information, resources, and insigh
 5. [Resources](#resources)
 6. [License](#license)
 
+## About Us
+[Go to About Page](about.html)
+
 ## Introduction
 [Provide a brief introduction to your class and the focus on studying the particular virus. Explain why it's important and interesting.]
 
